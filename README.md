@@ -65,7 +65,7 @@ Ignore the Thunderbolt controller, this has been removed from this EFI.
 
 ## Disable CFG Lock (only needed with the current stable version)
 
-First use EFIBoot to Boot into Grub and follow this steps:
+First use EFIGrub to Boot into Grub and follow this steps:
 
 Disable CFG Lock (MSR 0x5C1) in BIOS via modified GRUB Shell, follow the guide [HERE] (https://www.tonymacx86.com/threads/gigabyte-z390-m-gaming-build-with-working-nvram.291193)
 
