@@ -5,7 +5,7 @@
 
 Original guide taken from: [extric99](https://github.com/extric99/Hackintosh-Gigabyte-Z390-GAMING-X-i9-9900k-5700XT)
 
-![](https://github.com/warrioru/Hackintosh-Gigabyte-z390-Gaming-X-i9-9900k-RX580/blob/master/screenshot/Screenshot_Info.png)
+![](https://github.com/warrioru/Hackintosh-Gigabyte-z390-Gaming-X-i9-9900k-RX580/blob/master/screenshots/Screenshot_Info.png)
 
 ## Configuration
 - Motherboard: Gigabyte Gaming X
