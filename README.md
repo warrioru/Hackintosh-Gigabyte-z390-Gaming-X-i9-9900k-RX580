@@ -96,7 +96,9 @@ Then use EFIBoot to boot into Catalina
 1. Setup Bios as per above
 2. Copy the contents of the EFI folder from the USB to the EFI Folder of SSD
 3. Use Clover Configurator to generate a Serial number and paste it into config.plist where YOUR_INFO is.
+
 (You can follow this guide to generate a Serial Number [iMessage](https://www.tonymacx86.com/threads/an-idiots-guide-to-imessage.196827/) and this site to verify it [EveryMac](http://www.everymac.com/ultimate-mac-lookup/))
+
 3.1. If the system is already recognizing Board Serial, UUID and MAC skip this step -> Open your config.plist and populate the Serial, Board Serial, UUID and MAC address. Make sure to edit the config.plist only with ProperTree.
 3. Go to System Preferences > Startup Disk and select your startup disk.
 4. Disable CFG Lock and save profile in Bios (see below).
